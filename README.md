@@ -8,3 +8,5 @@ For now, I know:
 1. NodeJS
 1. Repl.it
 1. CHALK
+
+Moreover, there is a lot to learn about.
